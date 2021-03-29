@@ -6,8 +6,6 @@
 
   [转换为 Kotlin](https://developers.google.com/codelabs/java-to-kotlin?hl=zh_cn&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F%3Fcat%3Dandroid)
 
-  
-
 - Kotlin Coroutine
 
   [Android 上的 Kotlin 协程](https://developer.android.google.cn/kotlin/coroutines)
@@ -31,6 +29,8 @@
   [ViewModel 四种集成方式](https://zhuanlan.zhihu.com/p/143346337)
 
   [2021/03/29 使用 Preferences DataStore](https://developers.google.com/codelabs/android-preferences-datastore?hl=zh_cn&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F%3Fcat%3Dandroid)
+
+  [2021/03/29 Constraint Layout 2.0 用法详解](https://zhuanlan.zhihu.com/p/336387890)
 
 - Jetpack Compose
 
