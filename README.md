@@ -21,6 +21,7 @@
   [2021/03/30 Kotlin之Flow由浅入深，对比Rxjava](https://blog.csdn.net/parade0393/article/details/106254291/)
   
   [Kotlin Coroutines Flow 系列](https://www.imooc.com/article/300248)
+  
 - Jetpack
 
   [WorkManager 进阶课堂](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652051234&idx=2&sn=4b5b76c76021c983d9f0ad6b1496beba&scene=21#wechat_redirect)
@@ -35,7 +36,23 @@
 
   [2021/03/29 Constraint Layout 2.0 用法详解](https://zhuanlan.zhihu.com/p/336387890)
 
+  [2020/03/31 使用 Jetpack App Startup 库减少应用启动时间](https://mp.weixin.qq.com/s/Pw0QgVwHntWwoLD0ChQihg)
+
+  [2020/03/31 滴滴DoKit-Android核心原理揭秘之统一悬浮窗](https://juejin.cn/post/6940160785901420580)
+
 - Jetpack Compose
+
+- 图片
+
+  [2020/03/31 Bitmap PNG JPG的区别](https://blog.csdn.net/xjz729827161/article/details/53586273)
+
+  [2020/03/31 Android你不得不知道的图片压缩（一）](https://www.jianshu.com/p/e10563e85ade)
+
+  [2020/03/31 性能优化——Android图片压缩与优化的几种方式](https://blog.csdn.net/u013928412/article/details/80358597)
+
+  [2020/03/31 Android图片压缩终结篇](https://www.jianshu.com/p/072b6defd938)
+
+  [2020/03/31 Compressor 仓库](https://github.com/zetbaitsu/Compressor)
 
 - 其他
 
