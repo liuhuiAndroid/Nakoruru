@@ -27,4 +27,17 @@
    4. Matrix压缩图片
 
       Matrix进行缩放处理之后的图片不是像采样率压缩一样纯粹的一种颜色，而是两种颜色的混合。这也叫做双线性采样，它使用的是双线性內插值算法，这个算法不像邻近点插值算法一样，直接粗暴的选择一个像素，而是参考了源像素相应位置周围 2x2 个点的值,根据相对位置取对应的权重，经过计算之后得到目标图像。
+   
+5. 保存图片到本地并在相册中显示
 
+   ```java
+   // 系统相册目录：
+   Environment.getExternalStorageDirectory() + File.separator + Environment.DIRECTORY_DCIM + File.separator + "Camera" + File.separator
+   // 发系统广播通知手机有图片更新
+   Intent intent = new Intent(Intent.ACTION_MEDIA_SCANNER_SCAN_FILE);
+   Uri uri = Uri.fromFile(file);
+   intent.setData(uri);
+   context.sendBroadcast(intent);
+   ```
+
+   
