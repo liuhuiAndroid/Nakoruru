@@ -40,6 +40,8 @@
 
   [2021/03/31 滴滴DoKit-Android核心原理揭秘之统一悬浮窗](https://juejin.cn/post/6940160785901420580)
 
+  [2021/04/01 使用 Jetpack ActivityResult 处理 Activity 之间的数据通信](https://mp.weixin.qq.com/s/lAnzLddefDqbR1Je09lP9A)
+
 - Jetpack Compose
 
 - 图片
