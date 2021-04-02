@@ -44,6 +44,14 @@
 
   [2021/04/01 使用 Jetpack ActivityResult 处理 Activity 之间的数据通信](https://mp.weixin.qq.com/s/lAnzLddefDqbR1Je09lP9A)
 
+  [2021/04/02 使用 Paging 3 实现分页加载](https://zhuanlan.zhihu.com/p/259387845)
+
+  [2021/04/02 Jetpack新成员，Paging3从吐槽到真香](https://guolin.blog.csdn.net/article/details/114707250)
+
+  [2021/04/02 Jetpack 成员 Paging3 数据库实践以及源码分析（一）](https://juejin.cn/post/6844904193468137486)
+
+  [2021/04/02 Jetpack 成员 Paging3 网络实践及原理分析（二）](https://juejin.cn/post/6844904196207345672)
+
 - Jetpack Compose
 
 - 图片
