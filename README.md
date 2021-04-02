@@ -52,6 +52,8 @@
 
   [2021/04/02 Jetpack 成员 Paging3 网络实践及原理分析（二）](https://juejin.cn/post/6844904196207345672)
 
+  [2021/04/02 Android Paging Codelab](https://codelabs.developers.google.com/codelabs/android-paging/index.html?index=..%2F..%2Findex#0)
+
 - Jetpack Compose
 
 - 图片
